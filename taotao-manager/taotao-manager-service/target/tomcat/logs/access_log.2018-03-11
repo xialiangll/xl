@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [11/Mar/2018:14:48:51 +0800] "GET /swagger-resources/configuration/ui HTTP/1.1" 404 1019 http-bio-8080-exec-1 43
+0:0:0:0:0:0:0:1 - - [11/Mar/2018:14:48:58 +0800] "GET / HTTP/1.1" 404 951 http-bio-8080-exec-7 3
